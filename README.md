@@ -126,4 +126,4 @@ This is a **proof of concept** focused on **wrinkle** defects. The rule engine's
 
 ## About
 
-Final-year engineering project (PFA) by **Khadija Bensaad**, engineering student at the Institut Supérieur d'Informatique (ISI), Université de Tunis El Manar, carried out during an internship at **DRÄXLMAIER**, Zaouiet Sousse, Tunisia (2025–2026).
+Final-year engineering project (PFA) by **Khadija Bensaad**, engineering student at the Institut Supérieur d'Informatique (ISI), Université de Tunis El Manar, carried out during an internship at **DRÄXLMAIER**.
